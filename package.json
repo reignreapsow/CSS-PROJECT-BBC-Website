@@ -1,0 +1,22 @@
+{
+  "name": "76-css-project-bbc-news-website",
+  "version": "1.0.0",
+  "description": "UDEMY - Web Developer Coursework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReignReapSow/CSS-PROJECT-BBC-Website.git"
+  },
+  "author": "Reign Westry <reign@reignwestry.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReignReapSow/CSS-PROJECT-BBC-Website/issues"
+  },
+  "homepage": "https://github.com/ReignReapSow/CSS-PROJECT-BBC-Website#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}

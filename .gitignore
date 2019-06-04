@@ -3,3 +3,4 @@
 #ignored folders
 .idea/
 scss/
+node_modules
